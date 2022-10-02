@@ -20,6 +20,7 @@ while (running)
             MartinKalkylator.Program();
             break;
         case 2:
+            MarkusKalkylator.Program();
             break;
         case 3:
             break;
