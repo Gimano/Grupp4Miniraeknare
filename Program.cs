@@ -23,6 +23,7 @@ while (running)
             MarkusKalkylator.Program();
             break;
         case 3:
+            KrittapatKalkylator.Program();
             break;
         case 4:
             running = false;
